@@ -37,7 +37,7 @@ The architectural framework of the project is thoughtfully segmented into three 
 
 
 
-- #### Data Collection <font color='gray'> (by webscraping using Phython) </font>
+- #### Data Collection <font color='gray'> (by webscraping using Python) </font>
 - #### Data Preperation and ETL <font color='gray'>(by using Google BigQuery) </font>
 - #### Data Visualization <font color='gray'>(by using Looker Studio) </font>
 
