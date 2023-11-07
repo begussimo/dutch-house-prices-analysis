@@ -155,6 +155,17 @@ And as a final step Google BigQuery is connected with Looker Studio then the vis
 
 To view the dashboard please use the [Dashboard](https://lookerstudio.google.com/u/0/reporting/9d2a20a9-d89e-4f6e-9f12-8943d33baf5d/page/ukNhD) link here.
 
+And for a quick overview please refer to the below:
+
+![img](assets/Looker1.png)
+![img](assets/Looker2.png)
+![img](assets/Looker3.png)
+![img](assets/Looker4.png)
+![img](assets/Looker5.png)
+
+
+
+
 ## :open_file_folder: Folder Structure
 
 ```
