@@ -26,7 +26,15 @@
 ## Business problem
 
 
-Netherlands is one of the most popular conturies to live in Europe with many outstanding views and historic, exciting structures. In this study, I give a brief insight about the House prices in different cities, main characteristics of the houses that affects the pricing. For doing this analysis, Funda.nl, which is one of the biggest real estate website, is used. Architecture of the project is  divided into 3 main parts. And these are:
+The Netherlands stands out as one of the most sought-after countries to reside in Europe, renowned for its picturesque landscapes and historic architectural marvels. Nevertheless, among the paramount challenges that individuals may encounter in this splendid nation is the quest for suitable housing options. To address this concern, I have meticulously crafted a comprehensive end-to-end analysis, elucidating the prevailing housing market conditions in the Netherlands.
+
+Initiating the project, one of the foremost hurdles entailed the procurement of accurate datasets and the development of robust data ingestion pipelines. Consequently, I made the strategic choice to source data from one of the Netherlands' premier real estate platforms, Funda.nl. With the data collected thorough web scraping methodology, the subsequent phase of the project centered on data cleaning and transformation. To effectively execute this critical step, I leveraged Google BigQuery, capitalizing on its native integration with Looker Studio, where I meticulously constructed the data dashboards.
+
+This study provides a concise overview of house prices across various cities, along with the key attributes of houses, encompassing details such as the number of rooms, energy types, and garden availability, all of which exert a significant influence on pricing dynamics. To facilitate this in-depth analysis, the extensive data resources of Funda.nl, a preeminent real estate website, were harnessed.
+
+The architectural framework of the project is thoughtfully segmented into three main components, as follows:
+
+
 
 
 - #### Data Collection <font color='gray'> (by webscraping using Phython) </font>
