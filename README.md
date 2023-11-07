@@ -99,7 +99,11 @@ SELECT
     Garden
   FROM `peak-nimbus-403420.nl_houses.nil_houses_raw`
 ```
+
+
 This is created as staging table to be able to prepare the final table do all the data type transformations in big query:
+
+
 
 ```console
 CREATE OR REPLACE TABLE nl_houses.Funda_NLHouses_DM AS
@@ -134,11 +138,14 @@ SELECT
       END Garden
 FROM `peak-nimbus-403420.nl_houses.houses` 
 ```
+
+
 Here are some screenshots from BigQuery to show how the schemas and tables look like:
 
 ![img](assets/Bigquery2.png)
 
 ![img](assets/Bigquery1.png)
+
 
 # Looker Studio 
 
