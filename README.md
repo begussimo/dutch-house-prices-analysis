@@ -51,7 +51,7 @@ Here is the overall architecture flow:
 # Web Scraping 
 In this notebook, we will create a dataset of houses found from [Funda](https://www.funda.nl/) (Dutch real-estate website). In order to do this, we need to program a web bot to retrieve all the information for us. We will use a combination of [Selenium](https://selenium-python.readthedocs.io/) and [Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for this.
 
-This notebook is part of my House Prices analysis work in which we create a dataset and an accompanying web app.
+This notebook is part of my house prices analysis work in which we create a dataset and an accompanying web app.
 
 For more details on the scraping code and libraries please refer to [scraping.ipynb](/Users/begumkoca/Documents/GitHub/HousePrices__Webscraper/scraping.ipynb)
 
